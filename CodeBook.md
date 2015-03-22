@@ -106,6 +106,7 @@ The file  tidyDataset.txt  has:
 |BodyBodyAccJerkMagFreqStdDev |  Body Acceleration Magnitude on Jerk - Frequency Standard Deviation  |
 |BodyBodyGyroMagFreqStdDev |  Body Gyroscope Magnitude - Frequency Standard Deviation  |
 |BodyBodyGyroJerkMagFreqStdDev |  Body Gyroscope Magnitude on Jerk - Frequency Standard Deviation  |
+|-|-|
 
 
 
