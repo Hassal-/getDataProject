@@ -36,8 +36,9 @@ __Functions__
  
 The file  tidyDataset.txt  has:
 
-|Feature| Description  |
-|---|--|
+
+| Feature | Description |
+|--------|--------|
 |Subject | Subject Measured  |
 |Activity | Activity Related |
 |BodyAcc_X_TimeMean | Body Acceleration over X Axis - Time Average  |
